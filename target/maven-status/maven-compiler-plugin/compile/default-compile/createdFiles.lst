@@ -1,0 +1,7 @@
+com\cloudgen\n3xgen\service\MailService.class
+com\cloudgen\n3xgen\stream\MailConfiguration.class
+com\cloudgen\n3xgen\service\MailServiceImp.class
+com\cloudgen\n3xgen\service\MailServiceImp$1.class
+com\cloudgen\n3xgen\utils\ExceptionPath.class
+com\cloudgen\n3xgen\bean\MailDetail.class
+com\cloudgen\n3xgen\SendMailSinkApplication.class
