@@ -1,0 +1,27 @@
+{"properties":[
+  {
+      "name": "mail.send.recipient",
+      "type": "java.lang.String",
+      "description": "Indicates the email directions of who will receie the mail."
+    },
+    {
+      "name": "mail.send.subject",
+      "type": "java.lang.String",
+      "description": "Indicates the clientId to the user, to use oauth authentication."
+    },
+    {
+      "name": "mail.send.host",
+      "type": "java.lang.String",
+      "description": "Indicates the host of the email account provider."
+    },
+    {
+      "name": "mail.send.username",
+      "type": "java.lang.String",
+      "description": "Indicates the email account."
+    },
+    {
+      "name": "mail.send.password",
+      "type": "java.lang.String",
+      "description": "Indicates the key to access to the account, for some accounts the password has to be configured, like with G-Mail."
+    }
+]}

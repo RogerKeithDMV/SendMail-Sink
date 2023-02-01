@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "mail.send",
+      "type": "com.cloudgen.n3xgen.bean.MailDetail",
+      "sourceType": "com.cloudgen.n3xgen.bean.MailDetail"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mail.send.recipient",
+      "type": "java.lang.String",
+      "description": "Indicates the email directions of who will receie the mail.",
+      "sourceType": "com.cloudgen.n3xgen.bean.MailDetail",
+      "defaultValue": ""
+    },
+    {
+      "name": "mail.send.subject",
+      "type": "java.lang.String",
+      "description": "Indicates the clientId to the user, to use oauth authentication.",
+      "sourceType": "com.cloudgen.n3xgen.bean.MailDetail",
+      "defaultValue": ""
+    },
+    {
+      "name": "mail.send.host",
+      "type": "java.lang.String",
+      "description": "Indicates the host of the email account provider.",
+      "sourceType": "com.cloudgen.n3xgen.bean.MailDetail",
+      "defaultValue": ""
+    },
+    {
+      "name": "mail.send.username",
+      "type": "java.lang.String",
+      "description": "Indicates the email account.",
+      "sourceType": "com.cloudgen.n3xgen.bean.MailDetail",
+      "defaultValue": ""
+    },
+    {
+      "name": "mail.send.password",
+      "type": "java.lang.String",
+      "description": "Indicates the key to access to the account, for some accounts the password has to be configured, like with G-Mail.",
+      "sourceType": "com.cloudgen.n3xgen.bean.MailDetail",
+      "defaultValue": ""
+    }
+  ],
+  "hints": []
+}
